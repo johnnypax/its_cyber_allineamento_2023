@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\UTENTE\eclipse-workspace-cybersec\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+592489778.index
+1865797976.index
