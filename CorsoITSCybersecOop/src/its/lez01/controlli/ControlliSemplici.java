@@ -116,15 +116,7 @@ public class ControlliSemplici {
 			System.out.println("Maggiorenne");
 		}
 		
-		 /*
-	     * TODO: ESERCIZIO!
-	     * Scrivere da zero una funzione che, data la temperatura corporea mi dice se posso entrare
-	     * in un locale stando attenti all'input che non deve essere inferiore di 35° e superiore a 42°
-	     *
-	     * La temperatura massima di ingresso è di 37.5°
-	     *
-	     * Possibili output sono: "Puoi entrare" | "Non puoi entrare"
-	     */
+		 
 	}
 
 }

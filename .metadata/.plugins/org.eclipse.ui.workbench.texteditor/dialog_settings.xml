@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="&#x09;int a = 6;"/>
+		<item key="selection" value="//int eta = 45;"/>
 		<list key="findhistory">
+			<item value="//int eta = 45;"/>
+			<item value="int eta = -15;"/>
 			<item value="&#x09;int a = 6;"/>
 			<item value="int a = 6;"/>
 		</list>
