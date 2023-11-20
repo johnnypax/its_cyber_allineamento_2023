@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="//int eta = 45;"/>
+		<item key="selection" value="Pennarello rosso = new Pennarello();"/>
 		<list key="findhistory">
+			<item value="Pennarello rosso = new Pennarello();"/>
+			<item value="int index = 0;"/>
+			<item value="while(1==1) {"/>
 			<item value="//int eta = 45;"/>
 			<item value="int eta = -15;"/>
 			<item value="&#x09;int a = 6;"/>
