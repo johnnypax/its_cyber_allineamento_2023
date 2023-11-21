@@ -4,4 +4,7 @@
     <fullyQualifiedTypeName name="its.lez04.oop.introduzione.Pennarello"/>
     <fullyQualifiedTypeName name="its.lez04.oop.introduzione.Calcolatrice"/>
     <fullyQualifiedTypeName name="its.lez04.oop.recap.Automobile"/>
+    <fullyQualifiedTypeName name="its.lez07.contenitori.Contatto"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="its.lez08.statiche.Persona"/>
 </qualifiedTypeNameHistroy>
